@@ -1,10 +1,4 @@
-<p>
-  <a href="https://bootstrap-levels.matchthetarget.com/levels/00_primary_button" target="_blank">Target</a>
-</p>
 
-<span class="fancy-button">Click me!</span>
-
-<style>
   .fancy-button {
     background-color: blue;
     color: white;
@@ -26,4 +20,4 @@
   .fancy-button:active {
     background-color: blue;
   }
-</style>
+
